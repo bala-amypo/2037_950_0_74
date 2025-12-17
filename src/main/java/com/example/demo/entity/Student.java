@@ -1,6 +1,8 @@
 package com.example.project.entity;
 
-public class student{
+public class Student{
+    @Id
+    @Gener
     private int id;
     private String name;
     private String email;
